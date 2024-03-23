@@ -1,0 +1,35 @@
+# Dependencias de Node.js
+node_modules/
+
+# Archivo package-lock.json creado por npm
+package-lock.json
+
+# Entorno de desarrollo específico de IDEs
+/.vscode
+/.idea
+/.vs
+
+# Archivos de compilación
+/build
+/dist
+
+# Archivos de registro y errores
+/logs
+*.log
+
+# Archivos generados automáticamente
+*.pid
+*.seed
+*.pid.lock
+*.log
+*.logs
+*.cache
+*.status
+
+# Archivos de configuración local
+.env
+
+# Archivos de respaldo
+*.bak
+*.backup
+*.swp

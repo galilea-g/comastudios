@@ -1,0 +1,1 @@
+export const TOKEN_CACHE = process.env.TOKEN_CACHE || "secret";
